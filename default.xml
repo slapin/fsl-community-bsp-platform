@@ -19,6 +19,6 @@
   </project>
 
   <project remote="freescale" revision="dora" name="meta-fsl-arm-extra" path="sources/meta-fsl-arm-extra"/>
-  <project remote="freescale" revision="dora" name="meta-fsl-demos" path="sources/meta-fsl-demos"/>
+  <project remote="slapin" revision="dora" name="meta-freescale-distro" path="sources/meta-fsl-demos"/>
 
 </manifest>
